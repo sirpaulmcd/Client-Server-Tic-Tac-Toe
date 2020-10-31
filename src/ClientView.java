@@ -227,9 +227,9 @@ public class ClientView extends JFrame
         centerPanel.setLayout(new GridLayout(3, 3, 5, 5));
         // Place the components into their respective panels
         northPanel.add(new JLabel("Active Player:"));
-        northPanel.add(markField);
-        northPanel.add(new JLabel("Name:"));
         northPanel.add(nameField);
+        northPanel.add(new JLabel("Mark:"));
+        northPanel.add(markField);
         centerPanel.setComponentOrientation(ComponentOrientation.LEFT_TO_RIGHT);
         centerPanel.add(r0c0Button);
         centerPanel.add(r0c1Button);
