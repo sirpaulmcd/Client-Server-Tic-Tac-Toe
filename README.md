@@ -17,7 +17,7 @@ Upon launching the client, a player is asked to input their name:
 <img src="https://cdn.discordapp.com/attachments/751158308236165191/771895749137924096/Screen_Shot_2020-10-30_at_18.16.56.png" height=150 />
 </p>
 
-They will then wait to be matched with an oppoenent. Once found, the game will begin.
+They will then wait to be matched with an opponent. Once found, the game will begin.
 The first person to connect to the server is the first person to play.
 <p align="center">
 <img src="https://media.giphy.com/media/p4Csz2GlROWlKMEgSe/giphy.gif" height=200 />
