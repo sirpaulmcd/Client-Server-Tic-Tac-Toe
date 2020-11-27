@@ -13,24 +13,23 @@ multiple people can challenge each other over the internet.
 ## Preview
 Upon launching the client, a player is asked to input their name:
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/751158308236165191/771895749137924096/Screen_Shot_2020-10-30_at_18.16.56.png" height=150 />
+<img src="https://drive.google.com/uc?export=view&id=10AG03I2vu3gld_SWoeuB14J_z4FuUbiY" height=150 />
 </p>
 
 They will then wait to be matched with an opponent. Once found, the game will begin.
 The first person to connect to the server is the first person to play.
 <p align="center">
-<img src="https://media.giphy.com/media/p4Csz2GlROWlKMEgSe/giphy.gif" height=200 />
+<img src="https://drive.google.com/uc?export=view&id=1_FL9CoxQaTYfCsThvttN3l2Tc9ujWofR" height=200 />
 </p>
-
 
 If a person disconnects from the server prematurely, they are shamed accordingly:
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/751158308236165191/771910346532192306/Screen_Shot_2020-10-30_at_19.35.32.png" height=250 />
+<img src="https://drive.google.com/uc?export=view&id=1cuGz_vEeN27LBA770ay7OjFbWokz8eJ_" height=250 />
 </p>
 
 Useful logs are kept by the server while it is running:
 <p align="center">
-<img src="https://media.discordapp.net/attachments/751158308236165191/771900723621003264/unknown.png" height=125 />
+<img src="https://drive.google.com/uc?export=view&id=1bCB2h2aFJFx-JUZLfvjIoTncniKXfXo6" height=125 />
 </p>
 
 ## Learning
